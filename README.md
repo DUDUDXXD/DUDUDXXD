@@ -37,7 +37,7 @@ I am a passionate **Computer Science student at the University of Valencia** ğŸ
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DUDUDXXD&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DUDUDXXD&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
 ---
