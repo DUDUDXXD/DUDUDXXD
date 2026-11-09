@@ -31,16 +31,6 @@ I am a passionate **Computer Science student at the University of Valencia** ğŸ
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### ğŸ“Š GitHub Stats
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DUDUDXXD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DUDUDXXD&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</div>
-
----
 
 ### Codewars Stats
 
@@ -48,6 +38,15 @@ I am a passionate **Computer Science student at the University of Valencia** ğŸ
   <a href="https://www.codewars.com/users/DUDUDXXD">
     <img src="https://www.codewars.com/users/DUDUDXXD/badges/large" alt="Codewars Badge" />
   </a>
+</div>
+
+---
+
+### ğŸ“Š GitHub Stats
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DUDUDXXD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DUDUDXXD&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
 ---
