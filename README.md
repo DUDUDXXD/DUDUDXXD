@@ -42,6 +42,17 @@ I am a passionate **Computer Science student at the University of Valencia** ğŸ
 
 ---
 
+### Codewars Stats
+
+<div align="center">
+  <a href="https://www.codewars.com/users/[TU_USUARIO]">
+    <img src="https://www.codewars.com/users/[TU_USUARIO]/badges/large" alt="Codewars Badge" />
+  </a>
+</div>
+
+---
+
+
 ### ğŸŒ Connect with me
 
 <div align="center">
